@@ -12,6 +12,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using NB_Plates.Models;
 
 namespace NB_Plates
 {
@@ -33,7 +34,7 @@ namespace NB_Plates
             services.AddDbContext<NB_PlatesContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("NB_PlatesContext")));
            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+                .AddEntityFrameworkStores<NB_PlatesContext>();
             
             services.AddRazorPages();
         }
