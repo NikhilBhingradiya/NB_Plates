@@ -9,10 +9,7 @@ namespace NB_Plates.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-            : base(options)
-        {
-        }
-        public DbSet<Plates> Plates { get; set; }
+        
+     
     }
 }
