@@ -17,6 +17,7 @@ namespace NB_Plates
 {
     public class Startup
     {
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
