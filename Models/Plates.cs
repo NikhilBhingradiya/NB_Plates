@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 
 namespace NB_Plates.Models
 {
@@ -16,6 +18,8 @@ namespace NB_Plates.Models
 
         public int Weight { get; set; }
 
+
+         [Column(TypeName = "decimal(18, 2)")]       
         public decimal Price { get; set; }
 
         public string Shape { get; set; }
