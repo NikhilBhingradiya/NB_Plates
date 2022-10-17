@@ -25,6 +25,8 @@
 // Last part is add the my prodct and cahnge some color
 // So i am creating the product. cshtml in my homre folder and add the products link in controoler and my company product img in this part 
 //I am adding the img and it succesfully run 
-
+--------------------------------------------------------------------------------
 17/10/2022
 //Forgotton to upload in git so i am uploding the git
+// Adding the back ground color in my NB_Plates  applicattion so it good looking now
+//
