@@ -29,4 +29,5 @@
 17/10/2022
 //Forgotton to upload in git so i am uploding the git
 // Adding the back ground color in my NB_Plates  applicattion so it good looking now
-//
+//Trying to public in Azure but it will throw an say you are unable to publish 
+// Now my application is completed and it succefully uploaded in git hub and it will public so everyone see my code 
