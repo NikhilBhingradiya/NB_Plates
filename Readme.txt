@@ -17,7 +17,14 @@
 //Now i am deleting the Existing the data whiuch i entered in browser And ia ma adding the data in my seeData class
 //After doing thnis i am moving to program.cs class to add the content 
 // Now After Enter the seed data I am running the apllication And it will shows the data which i entered in SeedData class
-
+------------------------------------------------------------------------------
 //16/10/2022
 // I AM Forggotten to Create the repostery so firdt thing i am doing is to create the new git to store till data
 // Linking the About pAge 
+//Now my almost pplication is over 
+// Last part is add the my prodct and cahnge some color
+// So i am creating the product. cshtml in my homre folder and add the products link in controoler and my company product img in this part 
+//I am adding the img and it succesfully run 
+
+17/10/2022
+//Forgotton to upload in git so i am uploding the git
